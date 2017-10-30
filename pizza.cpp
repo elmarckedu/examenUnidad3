@@ -10,7 +10,7 @@ int main()
     double n,m,k;
 	double n1,m1,k1;
 	int totpiz=0;
-	
+	cout<<"comentario 1";
 	cin>>n;
 
 	cin>>m;
