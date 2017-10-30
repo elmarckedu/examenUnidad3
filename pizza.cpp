@@ -7,7 +7,7 @@ using namespace std;
 int main() 
 
 {
-    double n,m,k;
+    double n,m,k,p,t;
 	double n1,m1,k1;
 	int totpiz=0;
 	cout<<"comentario 1";
@@ -27,6 +27,9 @@ int main()
 	}
 	totpiz=n1+m1+k1+1;
 	cout<<totpiz;
-	
+	cout<<"dame un numero";
+	cin>>p;
+	cout<<"dame otro numero";
+	cin>>t;
 	return 0;
 }
